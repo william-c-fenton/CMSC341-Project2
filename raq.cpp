@@ -3,6 +3,7 @@
 #include <iostream>
 #include <cmath>
 
+#GIT TESTING!
 RAQ::RAQ(std::vector<float> data){
 
 
